@@ -1,5 +1,4 @@
 # hello-world
-practice repo
 Hi everyone, My name is Saravanan.
 I have completed my Bachelor's in Computer Science.
 I am working as a Junior Software Engineer in Virtusa.
